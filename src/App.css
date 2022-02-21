@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+.desktop {
+  border: 1px solid gray;
+}
+
+.addTaskContainer {
+  width: 20em;
+  margin-bottom: 2em;
+}
+/* .stages {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 1.5rem;
+} */
+.stageCard {
+  width: 20%;
+  background-color: lightblue !important;
+}
+.row {
+  margin-bottom: 0.5em;
+}
+ul {
+  list-style-type: none;
+}
+.task {
+  margin-bottom: 0.5em;
+  margin-right: 1.6rem;
+  padding: 1em;
+}
+/* .taskButtons {
+  display: flex;
+  flex-direction: row;
+} */
+/* .delete-task-fab {
+  position: absolute;
+  bottom: 10%;
+  right: 5%;
+  background: #fff;
+  padding: 10px;
+  border-radius: 50px;
+  margin: 0px;
+  font-size: 35px;
+  height: 70px;
+  width: 70px;
+  text-align: center;
+  box-shadow: 0px 0px 10px 6px #00000047;
+  animation: scale-display 0.3s;
+  animation-direction: alternate;
+} */

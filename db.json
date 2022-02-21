@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Mugdhali Talange",
+      "userName": "mugdhalit",
+      "email": "mugdhali@gmail.com",
+      "contact": "9898989898",
+      "password": "abc123",
+      "profile": "https://i.pravatar.cc/150?u=268"
+    },
+    {
+      "id": 2,
+      "fullName": "Shalmali Patil",
+      "userName": "shalmalip",
+      "email": "shalmalip1@gmail.com",
+      "contact": "9797979797",
+      "password": "xyz123",
+      "profile": "https://i.pravatar.cc/150?u=268"
+    },
+    {
+      "id": 619,
+      "contact": "7878787878",
+      "email": "akshad@gmail.com",
+      "fullName": "Akshad Patil",
+      "password": "abcd1234",
+      "profile": "",
+      "userName": "akshad"
+    },
+    {
+      "id": 773,
+      "contact": "6767676767",
+      "email": "anupama@gmail.com",
+      "fullName": "Anupama Talange",
+      "password": "abcdef12",
+      "profile": "",
+      "userName": "Anupama"
+    },
+    {
+      "id": 267,
+      "contact": "675676567764023840923",
+      "email": "mary@gmail.com",
+      "fullName": "Mary Kom",
+      "password": "abc123",
+      "profile": "",
+      "userName": "mary"
+    }
+  ],
+  "tasks": [
+    {
+      "fullName": "Mugdhali Talange",
+      "name": "Task3",
+      "priority": "medium",
+      "deadline": "2022-02-21",
+      "stage": 3,
+      "id": 3
+    },
+    {
+      "fullName": "Shalmali Patil",
+      "name": "Task4",
+      "priority": "high",
+      "deadline": "2022-02-17",
+      "stage": 0,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "fullName": "Shalmali Patil",
+      "name": "Task5",
+      "stage": 3,
+      "priority": "medium",
+      "deadline": "2022-02-16"
+    },
+    {
+      "fullName": "Akshad",
+      "name": "Task7",
+      "priority": "high",
+      "deadline": "2022-02-20",
+      "stage": 3,
+      "id": 7
+    },
+    {
+      "fullName": "Anupama",
+      "name": "Anytask",
+      "priority": "high",
+      "deadline": "2022-02-25",
+      "stage": 1,
+      "id": 8
+    },
+    {
+      "fullName": "Anupama",
+      "name": "Nine",
+      "priority": "medium",
+      "deadline": "2022-02-28",
+      "stage": 1,
+      "id": 9
+    },
+    {
+      "fullName": "Akshad",
+      "name": "task12",
+      "stage": 2,
+      "priority": "low",
+      "deadline": "2022-02-26",
+      "id": 10
+    },
+    {
+      "fullName": "Akshad",
+      "name": "Task20",
+      "priority": "low",
+      "deadline": "2022-03-03",
+      "stage": 3,
+      "id": 12
+    },
+    {
+      "fullName": "Akshad",
+      "name": "Task12",
+      "priority": "high",
+      "deadline": "2022-02-18",
+      "stage": 0,
+      "id": 13
+    },
+    {
+      "fullName": "Anupama",
+      "name": "task22",
+      "stage": 0,
+      "priority": "medium",
+      "deadline": "2022-02-18",
+      "id": 14
+    },
+    {
+      "fullName": "Anupama",
+      "name": "Meeting with boss",
+      "stage": 3,
+      "priority": "high",
+      "deadline": "2022-02-25",
+      "id": 18
+    },
+    {
+      "fullName": "Mugdhali Talange",
+      "name": "NewTask1",
+      "stage": 0,
+      "priority": "high",
+      "deadline": "2022-02-03",
+      "id": 19
+    },
+    {
+      "fullName": "Akshad",
+      "name": "NewTaask10",
+      "priority": "high",
+      "deadline": "2022-02-18T00:41:49.407Z",
+      "stage": 2,
+      "id": 20
+    },
+    {
+      "fullName": "Anupama Talange",
+      "name": "anupama task1",
+      "stage": 2,
+      "priority": "high",
+      "deadline": "2022-02-20",
+      "id": 22
+    }
+  ]
+}
